@@ -1,0 +1,3 @@
+- rails new projectname
+- rails g scaffold Todo title:string content:string complite:boolean
+- bin/rails db:migrate
